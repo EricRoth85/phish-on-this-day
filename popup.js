@@ -1,4 +1,4 @@
-
+// const todaysShows = require('./scrape.js')
 /**
  * Get the current URL.
  *
@@ -112,6 +112,7 @@ document.addEventListener('DOMContentLoaded', () => {
     let date = document.createElement("h3").innerHTML = n;
     span.append(date)
 
+    // window.document.getElementById('placeHere').innerHTML = todaysShows[Math.random(Math.floor(todaysShows.length))]
     // Load the saved background color for this page and modify the dropdown
     // value, if needed.
     getSavedBackgroundColor(url, (savedColor) => {
@@ -120,6 +121,7 @@ document.addEventListener('DOMContentLoaded', () => {
         dropdown.value = savedColor;
       }
     });
+
 
     // Ensure the background color is changed and saved when the dropdown
     // selection changes.
