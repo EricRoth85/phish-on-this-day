@@ -1,0 +1,944 @@
+1983-12-02 Harris-Millis Cafeteria - University of Vermont
+			Burlington,			VT
+1983-12-03 Marsh / Austin / Tupper Dormitory, University of Vermont
+			Burlington,			VT
+1983-12-02 Harris-Millis Cafeteria - University of Vermont
+			Burlington,			VT
+1983-12-03 Marsh / Austin / Tupper Dormitory, University of Vermont
+			Burlington,			VT
+1983-12-02 Harris-Millis Cafeteria - University of Vermont
+			Burlington,			VT
+1983-12-03 Marsh / Austin / Tupper Dormitory, University of Vermont
+			Burlington,			VT
+1983-12-02 Harris-Millis Cafeteria - University of Vermont
+			Burlington,			VT
+1983-12-03 Marsh / Austin / Tupper Dormitory, University of Vermont
+			Burlington,			VT
+1987-01-19 Hunt's
+			Burlington,			VT
+1987-01-21 Hunt's
+			Burlington,			VT
+1987-02-01 Nectar's
+			Burlington,			VT
+1987-02-02 Nectar's
+			Burlington,			VT
+1987-02-07 Mad Maggie's Farm
+			Monkton,			VT
+1987-02-13 Johnson State College
+			Johnson,			VT
+1987-02-21 Slade Hall, University of Vermont
+			Burlington,			VT
+1987-03-06 Goddard College
+			Plainfield,			VT
+1987-03-22 Nectar's
+			Burlington,			VT
+1987-03-23 Nectar's
+			Burlington,			VT
+1987-04-24 Billings Lounge, University of Vermont
+			Burlington,			VT
+1987-04-28 Nectar's
+			Burlington,			VT
+1987-04-29 Nectar's
+			Burlington,			VT
+1987-05-10 Nectar's
+			Burlington,			VT
+1987-05-11 Nectar's
+			Burlington,			VT
+1987-05-12 Nectar's
+			Burlington,			VT
+1987-05-16 Haybarn Theater, Goddard College
+			Plainfield,			VT
+1987-05-20 The Ranch
+			South Burlington,			VT
+1987-08-09 Nectar's
+			Burlington,			VT
+1987-08-10 Nectar's
+			Burlington,			VT
+1987-08-21 Ian McLean's Farm
+			Hebron,			NY
+1987-08-22 Vergennes Day
+			Vergennes,			VT
+1987-08-29 The Ranch
+			South Burlington,			VT
+1987-09-02 Hunt's
+			Burlington,			VT
+1987-09-03 Hunt's
+			Burlington,			VT
+1987-09-04 Goddard College
+			Plainfield,			VT
+1987-09-19 Goddard College
+			Plainfield,			VT
+1987-09-20 Nectar's
+			Burlington,			VT
+1987-09-21 Nectar's
+			Burlington,			VT
+1987-09-27 St. Lawrence University
+			Canton,			NY
+1987-10-10 The Ranch
+			Shelburne,			VT
+1987-10-14 Hunt's
+			Burlington,			VT
+1987-10-18 Nectar's
+			Burlington,			VT
+1987-10-19 Nectar's
+			Burlington,			VT
+1987-10-23 Cork's
+			Burlington,			VT
+1987-10-24 Cork's
+			Burlington,			VT
+1987-10-31 Sculpture Room, Goddard College
+			Plainfield,			VT
+1987-11-18 Hunt's
+			Burlington,			VT
+1987-11-19 Hunt's
+			Burlington,			VT
+1987-11-21 Nectar's
+			Burlington,			VT
+1987-11-22 Nectar's
+			Burlington,			VT
+1987-11-23 Nectar's
+			Burlington,			VT
+1987-01-19 Hunt's
+			Burlington,			VT
+1987-01-21 Hunt's
+			Burlington,			VT
+1987-02-01 Nectar's
+			Burlington,			VT
+1987-02-02 Nectar's
+			Burlington,			VT
+1987-02-07 Mad Maggie's Farm
+			Monkton,			VT
+1987-02-13 Johnson State College
+			Johnson,			VT
+1987-02-21 Slade Hall, University of Vermont
+			Burlington,			VT
+1987-03-06 Goddard College
+			Plainfield,			VT
+1987-03-22 Nectar's
+			Burlington,			VT
+1987-03-23 Nectar's
+			Burlington,			VT
+1987-04-24 Billings Lounge, University of Vermont
+			Burlington,			VT
+1987-04-28 Nectar's
+			Burlington,			VT
+1987-04-29 Nectar's
+			Burlington,			VT
+1987-05-10 Nectar's
+			Burlington,			VT
+1987-05-11 Nectar's
+			Burlington,			VT
+1987-05-12 Nectar's
+			Burlington,			VT
+1987-05-16 Haybarn Theater, Goddard College
+			Plainfield,			VT
+1987-05-20 The Ranch
+			South Burlington,			VT
+1987-08-09 Nectar's
+			Burlington,			VT
+1987-08-10 Nectar's
+			Burlington,			VT
+1987-08-21 Ian McLean's Farm
+			Hebron,			NY
+1987-08-22 Vergennes Day
+			Vergennes,			VT
+1987-08-29 The Ranch
+			South Burlington,			VT
+1987-09-02 Hunt's
+			Burlington,			VT
+1987-09-03 Hunt's
+			Burlington,			VT
+1987-09-04 Goddard College
+			Plainfield,			VT
+1987-09-19 Goddard College
+			Plainfield,			VT
+1987-09-20 Nectar's
+			Burlington,			VT
+1987-09-21 Nectar's
+			Burlington,			VT
+1987-09-27 St. Lawrence University
+			Canton,			NY
+1987-10-10 The Ranch
+			Shelburne,			VT
+1987-10-14 Hunt's
+			Burlington,			VT
+1987-10-18 Nectar's
+			Burlington,			VT
+1987-10-19 Nectar's
+			Burlington,			VT
+1987-10-23 Cork's
+			Burlington,			VT
+1987-10-24 Cork's
+			Burlington,			VT
+1987-10-31 Sculpture Room, Goddard College
+			Plainfield,			VT
+1987-11-18 Hunt's
+			Burlington,			VT
+1987-11-19 Hunt's
+			Burlington,			VT
+1987-11-21 Nectar's
+			Burlington,			VT
+1987-11-22 Nectar's
+			Burlington,			VT
+1987-11-23 Nectar's
+			Burlington,			VT
+1987-01-19 Hunt's
+			Burlington,			VT
+1987-01-21 Hunt's
+			Burlington,			VT
+1987-02-01 Nectar's
+			Burlington,			VT
+1987-02-02 Nectar's
+			Burlington,			VT
+1987-02-07 Mad Maggie's Farm
+			Monkton,			VT
+1987-02-13 Johnson State College
+			Johnson,			VT
+1987-02-21 Slade Hall, University of Vermont
+			Burlington,			VT
+1987-03-06 Goddard College
+			Plainfield,			VT
+1987-03-22 Nectar's
+			Burlington,			VT
+1987-03-23 Nectar's
+			Burlington,			VT
+1987-04-24 Billings Lounge, University of Vermont
+			Burlington,			VT
+1987-04-28 Nectar's
+			Burlington,			VT
+1987-04-29 Nectar's
+			Burlington,			VT
+1987-05-10 Nectar's
+			Burlington,			VT
+1987-05-11 Nectar's
+			Burlington,			VT
+1987-05-12 Nectar's
+			Burlington,			VT
+1987-05-16 Haybarn Theater, Goddard College
+			Plainfield,			VT
+1987-05-20 The Ranch
+			South Burlington,			VT
+1987-08-09 Nectar's
+			Burlington,			VT
+1987-08-10 Nectar's
+			Burlington,			VT
+1987-08-21 Ian McLean's Farm
+			Hebron,			NY
+1987-08-22 Vergennes Day
+			Vergennes,			VT
+1987-08-29 The Ranch
+			South Burlington,			VT
+1987-09-02 Hunt's
+			Burlington,			VT
+1987-09-03 Hunt's
+			Burlington,			VT
+1987-09-04 Goddard College
+			Plainfield,			VT
+1987-09-19 Goddard College
+			Plainfield,			VT
+1987-09-20 Nectar's
+			Burlington,			VT
+1987-09-21 Nectar's
+			Burlington,			VT
+1987-09-27 St. Lawrence University
+			Canton,			NY
+1987-10-10 The Ranch
+			Shelburne,			VT
+1987-10-14 Hunt's
+			Burlington,			VT
+1987-10-18 Nectar's
+			Burlington,			VT
+1987-10-19 Nectar's
+			Burlington,			VT
+1987-10-23 Cork's
+			Burlington,			VT
+1987-10-24 Cork's
+			Burlington,			VT
+1987-10-31 Sculpture Room, Goddard College
+			Plainfield,			VT
+1987-11-18 Hunt's
+			Burlington,			VT
+1987-11-19 Hunt's
+			Burlington,			VT
+1987-11-21 Nectar's
+			Burlington,			VT
+1987-11-22 Nectar's
+			Burlington,			VT
+1987-11-23 Nectar's
+			Burlington,			VT
+1987-01-19 Hunt's
+			Burlington,			VT
+1987-01-21 Hunt's
+			Burlington,			VT
+1987-02-01 Nectar's
+			Burlington,			VT
+1987-02-02 Nectar's
+			Burlington,			VT
+1987-02-07 Mad Maggie's Farm
+			Monkton,			VT
+1987-02-13 Johnson State College
+			Johnson,			VT
+1987-02-21 Slade Hall, University of Vermont
+			Burlington,			VT
+1987-03-06 Goddard College
+			Plainfield,			VT
+1987-03-22 Nectar's
+			Burlington,			VT
+1987-03-23 Nectar's
+			Burlington,			VT
+1987-04-24 Billings Lounge, University of Vermont
+			Burlington,			VT
+1987-04-28 Nectar's
+			Burlington,			VT
+1987-04-29 Nectar's
+			Burlington,			VT
+1987-05-10 Nectar's
+			Burlington,			VT
+1987-05-11 Nectar's
+			Burlington,			VT
+1987-05-12 Nectar's
+			Burlington,			VT
+1987-05-16 Haybarn Theater, Goddard College
+			Plainfield,			VT
+1987-05-20 The Ranch
+			South Burlington,			VT
+1987-08-09 Nectar's
+			Burlington,			VT
+1987-08-10 Nectar's
+			Burlington,			VT
+1987-08-21 Ian McLean's Farm
+			Hebron,			NY
+1987-08-22 Vergennes Day
+			Vergennes,			VT
+1987-08-29 The Ranch
+			South Burlington,			VT
+1987-09-02 Hunt's
+			Burlington,			VT
+1987-09-03 Hunt's
+			Burlington,			VT
+1987-09-04 Goddard College
+			Plainfield,			VT
+1987-09-19 Goddard College
+			Plainfield,			VT
+1987-09-20 Nectar's
+			Burlington,			VT
+1987-09-21 Nectar's
+			Burlington,			VT
+1987-09-27 St. Lawrence University
+			Canton,			NY
+1987-10-10 The Ranch
+			Shelburne,			VT
+1987-10-14 Hunt's
+			Burlington,			VT
+1987-10-18 Nectar's
+			Burlington,			VT
+1987-10-19 Nectar's
+			Burlington,			VT
+1987-10-23 Cork's
+			Burlington,			VT
+1987-10-24 Cork's
+			Burlington,			VT
+1987-10-31 Sculpture Room, Goddard College
+			Plainfield,			VT
+1987-11-18 Hunt's
+			Burlington,			VT
+1987-11-19 Hunt's
+			Burlington,			VT
+1987-11-21 Nectar's
+			Burlington,			VT
+1987-11-22 Nectar's
+			Burlington,			VT
+1987-11-23 Nectar's
+			Burlington,			VT
+1987-01-19 Hunt's
+			Burlington,			VT
+1987-01-21 Hunt's
+			Burlington,			VT
+1987-02-01 Nectar's
+			Burlington,			VT
+1987-02-02 Nectar's
+			Burlington,			VT
+1987-02-07 Mad Maggie's Farm
+			Monkton,			VT
+1987-02-13 Johnson State College
+			Johnson,			VT
+1987-02-21 Slade Hall, University of Vermont
+			Burlington,			VT
+1987-03-06 Goddard College
+			Plainfield,			VT
+1987-03-22 Nectar's
+			Burlington,			VT
+1987-03-23 Nectar's
+			Burlington,			VT
+1987-04-24 Billings Lounge, University of Vermont
+			Burlington,			VT
+1987-04-28 Nectar's
+			Burlington,			VT
+1987-04-29 Nectar's
+			Burlington,			VT
+1987-05-10 Nectar's
+			Burlington,			VT
+1987-05-11 Nectar's
+			Burlington,			VT
+1987-05-12 Nectar's
+			Burlington,			VT
+1987-05-16 Haybarn Theater, Goddard College
+			Plainfield,			VT
+1987-05-20 The Ranch
+			South Burlington,			VT
+1987-08-09 Nectar's
+			Burlington,			VT
+1987-08-10 Nectar's
+			Burlington,			VT
+1987-08-21 Ian McLean's Farm
+			Hebron,			NY
+1987-08-22 Vergennes Day
+			Vergennes,			VT
+1987-08-29 The Ranch
+			South Burlington,			VT
+1987-09-02 Hunt's
+			Burlington,			VT
+1987-09-03 Hunt's
+			Burlington,			VT
+1987-09-04 Goddard College
+			Plainfield,			VT
+1987-09-19 Goddard College
+			Plainfield,			VT
+1987-09-20 Nectar's
+			Burlington,			VT
+1987-09-21 Nectar's
+			Burlington,			VT
+1987-09-27 St. Lawrence University
+			Canton,			NY
+1987-10-10 The Ranch
+			Shelburne,			VT
+1987-10-14 Hunt's
+			Burlington,			VT
+1987-10-18 Nectar's
+			Burlington,			VT
+1987-10-19 Nectar's
+			Burlington,			VT
+1987-10-23 Cork's
+			Burlington,			VT
+1987-10-24 Cork's
+			Burlington,			VT
+1987-10-31 Sculpture Room, Goddard College
+			Plainfield,			VT
+1987-11-18 Hunt's
+			Burlington,			VT
+1987-11-19 Hunt's
+			Burlington,			VT
+1987-11-21 Nectar's
+			Burlington,			VT
+1987-11-22 Nectar's
+			Burlington,			VT
+1987-11-23 Nectar's
+			Burlington,			VT
+1991-07-11 Battery Park
+			Burlington,			VT
+1991-07-12 The Colonial Theatre
+			Keene,			NH
+1991-07-13 Berkshire Performing Arts Center
+			Lenox,			MA
+1991-07-14 Townshend Family Park
+			Townshend,			VT
+1991-07-15 The Academy
+			New York,			NY
+1991-07-18 Hampton Casino Ballroom
+			Hampton Beach,			NH
+1991-07-19 Somerville Theatre
+			Somerville,			MA
+1991-07-20 Arrowhead Ranch
+			Parksville,			NY
+1991-07-21 Arrowhead Ranch
+			Parksville,			NY
+1991-07-23 The Bayou
+			Washington,			DC
+1991-07-24 Trax
+			Charlottesville,			VA
+1991-07-25 Cat's Cradle
+			Chapel Hill,			NC
+1991-07-26 The Georgia Theatre
+			Athens,			GA
+1991-07-27 Variety Playhouse
+			Atlanta,			GA
+1991-07-11 Battery Park
+			Burlington,			VT
+1991-07-12 The Colonial Theatre
+			Keene,			NH
+1991-07-13 Berkshire Performing Arts Center
+			Lenox,			MA
+1991-07-14 Townshend Family Park
+			Townshend,			VT
+1991-07-15 The Academy
+			New York,			NY
+1991-07-18 Hampton Casino Ballroom
+			Hampton Beach,			NH
+1991-07-19 Somerville Theatre
+			Somerville,			MA
+1991-07-20 Arrowhead Ranch
+			Parksville,			NY
+1991-07-21 Arrowhead Ranch
+			Parksville,			NY
+1991-07-23 The Bayou
+			Washington,			DC
+1991-07-24 Trax
+			Charlottesville,			VA
+1991-07-25 Cat's Cradle
+			Chapel Hill,			NC
+1991-07-26 The Georgia Theatre
+			Athens,			GA
+1991-07-27 Variety Playhouse
+			Atlanta,			GA
+1991-07-11 Battery Park
+			Burlington,			VT
+1991-07-12 The Colonial Theatre
+			Keene,			NH
+1991-07-13 Berkshire Performing Arts Center
+			Lenox,			MA
+1991-07-14 Townshend Family Park
+			Townshend,			VT
+1991-07-15 The Academy
+			New York,			NY
+1991-07-18 Hampton Casino Ballroom
+			Hampton Beach,			NH
+1991-07-19 Somerville Theatre
+			Somerville,			MA
+1991-07-20 Arrowhead Ranch
+			Parksville,			NY
+1991-07-21 Arrowhead Ranch
+			Parksville,			NY
+1991-07-23 The Bayou
+			Washington,			DC
+1991-07-24 Trax
+			Charlottesville,			VA
+1991-07-25 Cat's Cradle
+			Chapel Hill,			NC
+1991-07-26 The Georgia Theatre
+			Athens,			GA
+1991-07-27 Variety Playhouse
+			Atlanta,			GA
+1991-07-11 Battery Park
+			Burlington,			VT
+1991-07-12 The Colonial Theatre
+			Keene,			NH
+1991-07-13 Berkshire Performing Arts Center
+			Lenox,			MA
+1991-07-14 Townshend Family Park
+			Townshend,			VT
+1991-07-15 The Academy
+			New York,			NY
+1991-07-18 Hampton Casino Ballroom
+			Hampton Beach,			NH
+1991-07-19 Somerville Theatre
+			Somerville,			MA
+1991-07-20 Arrowhead Ranch
+			Parksville,			NY
+1991-07-21 Arrowhead Ranch
+			Parksville,			NY
+1991-07-23 The Bayou
+			Washington,			DC
+1991-07-24 Trax
+			Charlottesville,			VA
+1991-07-25 Cat's Cradle
+			Chapel Hill,			NC
+1991-07-26 The Georgia Theatre
+			Athens,			GA
+1991-07-27 Variety Playhouse
+			Atlanta,			GA
+1991-07-11 Battery Park
+			Burlington,			VT
+1991-07-12 The Colonial Theatre
+			Keene,			NH
+1991-07-13 Berkshire Performing Arts Center
+			Lenox,			MA
+1991-07-14 Townshend Family Park
+			Townshend,			VT
+1991-07-15 The Academy
+			New York,			NY
+1991-07-18 Hampton Casino Ballroom
+			Hampton Beach,			NH
+1991-07-19 Somerville Theatre
+			Somerville,			MA
+1991-07-20 Arrowhead Ranch
+			Parksville,			NY
+1991-07-21 Arrowhead Ranch
+			Parksville,			NY
+1991-07-23 The Bayou
+			Washington,			DC
+1991-07-24 Trax
+			Charlottesville,			VA
+1991-07-25 Cat's Cradle
+			Chapel Hill,			NC
+1991-07-26 The Georgia Theatre
+			Athens,			GA
+1991-07-27 Variety Playhouse
+			Atlanta,			GA
+1991-07-11 Battery Park
+			Burlington,			VT
+1991-07-12 The Colonial Theatre
+			Keene,			NH
+1991-07-13 Berkshire Performing Arts Center
+			Lenox,			MA
+1991-07-14 Townshend Family Park
+			Townshend,			VT
+1991-07-15 The Academy
+			New York,			NY
+1991-07-18 Hampton Casino Ballroom
+			Hampton Beach,			NH
+1991-07-19 Somerville Theatre
+			Somerville,			MA
+1991-07-20 Arrowhead Ranch
+			Parksville,			NY
+1991-07-21 Arrowhead Ranch
+			Parksville,			NY
+1991-07-23 The Bayou
+			Washington,			DC
+1991-07-24 Trax
+			Charlottesville,			VA
+1991-07-25 Cat's Cradle
+			Chapel Hill,			NC
+1991-07-26 The Georgia Theatre
+			Athens,			GA
+1991-07-27 Variety Playhouse
+			Atlanta,			GA
+1992-07-09 Cumberland County Civic Center
+			Portland,			ME
+1992-07-10 Empire Court
+			Syracuse,			NY
+1992-07-11 Garden State Arts Center
+			Holmdel,			NJ
+1992-07-12 Jones Beach Amphitheater
+			Wantagh,			NY
+1992-07-14 The Boathouse
+			Norfolk,			VA
+1992-07-15 Trax
+			Charlottesville,			VA
+1992-07-16 Flood Zone
+			Richmond,			VA
+1992-07-17 Merriweather Post Pavilion
+			Columbia,			MD
+1992-07-18 The Mann Center for the Performing Arts
+			Philadelphia,			PA
+1992-07-19 Garden State Arts Center
+			Holmdel,			NJ
+1992-07-21 Great Woods Center for the Performing Arts
+			Mansfield,			MA
+1992-07-22 Holman Stadium
+			Nashua,			NH
+1992-07-24 Jones Beach Amphitheater
+			Wantagh,			NY
+1992-07-25 Stowe Performing Arts Center
+			Stowe,			VT
+1992-07-26 Big Birch Concert Pavilion
+			Patterson,			NY
+1992-07-27 Saratoga Performing Arts Center
+			Saratoga Springs,			NY
+1992-07-28 Finger Lakes Performing Arts Center
+			Canandaigua,			NY
+1992-07-30 Meadow Brook Music Festival
+			Rochester Hills,			MI
+1992-07-31 Blossom Music Center
+			Cuyahoga Falls,			OH
+1992-08-01 Poplar Creek Music Center
+			Hoffman Estates,			IL
+1992-08-02 Riverport Amphitheater
+			Maryland Heights,			MO
+1992-08-13 Greek Theatre
+			Los Angeles,			CA
+1992-08-14 Greek Theatre
+			Los Angeles,			CA
+1992-08-15 Greek Theatre
+			Los Angeles,			CA
+1992-08-17 The Coach House
+			San Juan Capistrano,			CA
+1992-08-19 Pima County Fairgrounds
+			Tucson,			AZ
+1992-08-20 Pan American Center
+			Las Cruces,			NM
+1992-08-23 Colorado State Fair, Pueblo State Fairgrounds
+			Pueblo,			CO
+1992-08-24 Gerald Ford Amphitheater
+			Vail,			CO
+1992-08-25 The Downs
+			Santa Fe,			NM
+1992-08-27 Santa Barbara Bowl
+			Santa Barbara,			CA
+1992-08-28 Concord Pavilion
+			Concord,			CA
+1992-08-29 Shoreline Amphitheatre
+			Mountain View,			CA
+1992-08-30 Cal Expo Amphitheater
+			Sacramento,			CA
+1992-07-09 Cumberland County Civic Center
+			Portland,			ME
+1992-07-10 Empire Court
+			Syracuse,			NY
+1992-07-11 Garden State Arts Center
+			Holmdel,			NJ
+1992-07-12 Jones Beach Amphitheater
+			Wantagh,			NY
+1992-07-14 The Boathouse
+			Norfolk,			VA
+1992-07-15 Trax
+			Charlottesville,			VA
+1992-07-16 Flood Zone
+			Richmond,			VA
+1992-07-17 Merriweather Post Pavilion
+			Columbia,			MD
+1992-07-18 The Mann Center for the Performing Arts
+			Philadelphia,			PA
+1992-07-19 Garden State Arts Center
+			Holmdel,			NJ
+1992-07-21 Great Woods Center for the Performing Arts
+			Mansfield,			MA
+1992-07-22 Holman Stadium
+			Nashua,			NH
+1992-07-24 Jones Beach Amphitheater
+			Wantagh,			NY
+1992-07-25 Stowe Performing Arts Center
+			Stowe,			VT
+1992-07-26 Big Birch Concert Pavilion
+			Patterson,			NY
+1992-07-27 Saratoga Performing Arts Center
+			Saratoga Springs,			NY
+1992-07-28 Finger Lakes Performing Arts Center
+			Canandaigua,			NY
+1992-07-30 Meadow Brook Music Festival
+			Rochester Hills,			MI
+1992-07-31 Blossom Music Center
+			Cuyahoga Falls,			OH
+1992-08-01 Poplar Creek Music Center
+			Hoffman Estates,			IL
+1992-08-02 Riverport Amphitheater
+			Maryland Heights,			MO
+1992-08-13 Greek Theatre
+			Los Angeles,			CA
+1992-08-14 Greek Theatre
+			Los Angeles,			CA
+1992-08-15 Greek Theatre
+			Los Angeles,			CA
+1992-08-17 The Coach House
+			San Juan Capistrano,			CA
+1992-08-19 Pima County Fairgrounds
+			Tucson,			AZ
+1992-08-20 Pan American Center
+			Las Cruces,			NM
+1992-08-23 Colorado State Fair, Pueblo State Fairgrounds
+			Pueblo,			CO
+1992-08-24 Gerald Ford Amphitheater
+			Vail,			CO
+1992-08-25 The Downs
+			Santa Fe,			NM
+1992-08-27 Santa Barbara Bowl
+			Santa Barbara,			CA
+1992-08-28 Concord Pavilion
+			Concord,			CA
+1992-08-29 Shoreline Amphitheatre
+			Mountain View,			CA
+1992-08-30 Cal Expo Amphitheater
+			Sacramento,			CA
+1992-07-09 Cumberland County Civic Center
+			Portland,			ME
+1992-07-10 Empire Court
+			Syracuse,			NY
+1992-07-11 Garden State Arts Center
+			Holmdel,			NJ
+1992-07-12 Jones Beach Amphitheater
+			Wantagh,			NY
+1992-07-14 The Boathouse
+			Norfolk,			VA
+1992-07-15 Trax
+			Charlottesville,			VA
+1992-07-16 Flood Zone
+			Richmond,			VA
+1992-07-17 Merriweather Post Pavilion
+			Columbia,			MD
+1992-07-18 The Mann Center for the Performing Arts
+			Philadelphia,			PA
+1992-07-19 Garden State Arts Center
+			Holmdel,			NJ
+1992-07-21 Great Woods Center for the Performing Arts
+			Mansfield,			MA
+1992-07-22 Holman Stadium
+			Nashua,			NH
+1992-07-24 Jones Beach Amphitheater
+			Wantagh,			NY
+1992-07-25 Stowe Performing Arts Center
+			Stowe,			VT
+1992-07-26 Big Birch Concert Pavilion
+			Patterson,			NY
+1992-07-27 Saratoga Performing Arts Center
+			Saratoga Springs,			NY
+1992-07-28 Finger Lakes Performing Arts Center
+			Canandaigua,			NY
+1992-07-30 Meadow Brook Music Festival
+			Rochester Hills,			MI
+1992-07-31 Blossom Music Center
+			Cuyahoga Falls,			OH
+1992-08-01 Poplar Creek Music Center
+			Hoffman Estates,			IL
+1992-08-02 Riverport Amphitheater
+			Maryland Heights,			MO
+1992-08-13 Greek Theatre
+			Los Angeles,			CA
+1992-08-14 Greek Theatre
+			Los Angeles,			CA
+1992-08-15 Greek Theatre
+			Los Angeles,			CA
+1992-08-17 The Coach House
+			San Juan Capistrano,			CA
+1992-08-19 Pima County Fairgrounds
+			Tucson,			AZ
+1992-08-20 Pan American Center
+			Las Cruces,			NM
+1992-08-23 Colorado State Fair, Pueblo State Fairgrounds
+			Pueblo,			CO
+1992-08-24 Gerald Ford Amphitheater
+			Vail,			CO
+1992-08-25 The Downs
+			Santa Fe,			NM
+1992-08-27 Santa Barbara Bowl
+			Santa Barbara,			CA
+1992-08-28 Concord Pavilion
+			Concord,			CA
+1992-08-29 Shoreline Amphitheatre
+			Mountain View,			CA
+1992-08-30 Cal Expo Amphitheater
+			Sacramento,			CA
+1992-07-09 Cumberland County Civic Center
+			Portland,			ME
+1992-07-10 Empire Court
+			Syracuse,			NY
+1992-07-11 Garden State Arts Center
+			Holmdel,			NJ
+1992-07-12 Jones Beach Amphitheater
+			Wantagh,			NY
+1992-07-14 The Boathouse
+			Norfolk,			VA
+1992-07-15 Trax
+			Charlottesville,			VA
+1992-07-16 Flood Zone
+			Richmond,			VA
+1992-07-17 Merriweather Post Pavilion
+			Columbia,			MD
+1992-07-18 The Mann Center for the Performing Arts
+			Philadelphia,			PA
+1992-07-19 Garden State Arts Center
+			Holmdel,			NJ
+1992-07-21 Great Woods Center for the Performing Arts
+			Mansfield,			MA
+1992-07-22 Holman Stadium
+			Nashua,			NH
+1992-07-24 Jones Beach Amphitheater
+			Wantagh,			NY
+1992-07-25 Stowe Performing Arts Center
+			Stowe,			VT
+1992-07-26 Big Birch Concert Pavilion
+			Patterson,			NY
+1992-07-27 Saratoga Performing Arts Center
+			Saratoga Springs,			NY
+1992-07-28 Finger Lakes Performing Arts Center
+			Canandaigua,			NY
+1992-07-30 Meadow Brook Music Festival
+			Rochester Hills,			MI
+1992-07-31 Blossom Music Center
+			Cuyahoga Falls,			OH
+1992-08-01 Poplar Creek Music Center
+			Hoffman Estates,			IL
+1992-08-02 Riverport Amphitheater
+			Maryland Heights,			MO
+1992-08-13 Greek Theatre
+			Los Angeles,			CA
+1992-08-14 Greek Theatre
+			Los Angeles,			CA
+1992-08-15 Greek Theatre
+			Los Angeles,			CA
+1992-08-17 The Coach House
+			San Juan Capistrano,			CA
+1992-08-19 Pima County Fairgrounds
+			Tucson,			AZ
+1992-08-20 Pan American Center
+			Las Cruces,			NM
+1992-08-23 Colorado State Fair, Pueblo State Fairgrounds
+			Pueblo,			CO
+1992-08-24 Gerald Ford Amphitheater
+			Vail,			CO
+1992-08-25 The Downs
+			Santa Fe,			NM
+1992-08-27 Santa Barbara Bowl
+			Santa Barbara,			CA
+1992-08-28 Concord Pavilion
+			Concord,			CA
+1992-08-29 Shoreline Amphitheatre
+			Mountain View,			CA
+1992-08-30 Cal Expo Amphitheater
+			Sacramento,			CA
+1992-07-09 Cumberland County Civic Center
+			Portland,			ME
+1992-07-10 Empire Court
+			Syracuse,			NY
+1992-07-11 Garden State Arts Center
+			Holmdel,			NJ
+1992-07-12 Jones Beach Amphitheater
+			Wantagh,			NY
+1992-07-14 The Boathouse
+			Norfolk,			VA
+1992-07-15 Trax
+			Charlottesville,			VA
+1992-07-16 Flood Zone
+			Richmond,			VA
+1992-07-17 Merriweather Post Pavilion
+			Columbia,			MD
+1992-07-18 The Mann Center for the Performing Arts
+			Philadelphia,			PA
+1992-07-19 Garden State Arts Center
+			Holmdel,			NJ
+1992-07-21 Great Woods Center for the Performing Arts
+			Mansfield,			MA
+1992-07-22 Holman Stadium
+			Nashua,			NH
+1992-07-24 Jones Beach Amphitheater
+			Wantagh,			NY
+1992-07-25 Stowe Performing Arts Center
+			Stowe,			VT
+1992-07-26 Big Birch Concert Pavilion
+			Patterson,			NY
+1992-07-27 Saratoga Performing Arts Center
+			Saratoga Springs,			NY
+1992-07-28 Finger Lakes Performing Arts Center
+			Canandaigua,			NY
+1992-07-30 Meadow Brook Music Festival
+			Rochester Hills,			MI
+1992-07-31 Blossom Music Center
+			Cuyahoga Falls,			OH
+1992-08-01 Poplar Creek Music Center
+			Hoffman Estates,			IL
+1992-08-02 Riverport Amphitheater
+			Maryland Heights,			MO
+1992-08-13 Greek Theatre
+			Los Angeles,			CA
+1992-08-14 Greek Theatre
+			Los Angeles,			CA
+1992-08-15 Greek Theatre
+			Los Angeles,			CA
+1992-08-17 The Coach House
+			San Juan Capistrano,			CA
+1992-08-19 Pima County Fairgrounds
+			Tucson,			AZ
+1992-08-20 Pan American Center
+			Las Cruces,			NM
+1992-08-23 Colorado State Fair, Pueblo State Fairgrounds
+			Pueblo,			CO
+1992-08-24 Gerald Ford Amphitheater
+			Vail,			CO
+1992-08-25 The Downs
+			Santa Fe,			NM
+1992-08-27 Santa Barbara Bowl
+			Santa Barbara,			CA
+1992-08-28 Concord Pavilion
+			Concord,			CA
+1992-08-29 Shoreline Amphitheatre
+			Mountain View,			CA
+1992-08-30 Cal Expo Amphitheater
+			Sacramento,			CA
