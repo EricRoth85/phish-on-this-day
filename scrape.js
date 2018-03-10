@@ -92,9 +92,9 @@ async function scrapeShows(url) {
 
 
     // let today = d.slice()
-    let date = `${months[n[1]]}-${n[2]}`;
+    let date = `-${months[n[1]]}-${n[2]}`;
 
-    let today = '03-04'
+    // let today = '03-04'
 
   //  console.log('STEP 8: finding the date')
     for (let i = 0; i < showArr.length; i++) {
@@ -123,6 +123,6 @@ async function scrapeShows(url) {
   // }
 }
 
-// scrapeShows('https://phish.net/tour/7-1989-tour.html');
+scrapeAllShows('https://phish.net');
 
 module.exports = todaysShows

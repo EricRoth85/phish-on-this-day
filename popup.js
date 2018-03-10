@@ -112,6 +112,12 @@ document.addEventListener('DOMContentLoaded', () => {
     let date = document.createElement("h3").innerHTML = n;
     span.append(date)
 
+    document.getElementById('placeHere').append(
+      chrome.tabs.executeScript({
+             code: 'function test() {return 5}'
+
+       }))
+
     // window.document.getElementById('placeHere').innerHTML = todaysShows[Math.random(Math.floor(todaysShows.length))]
     // Load the saved background color for this page and modify the dropdown
     // value, if needed.
