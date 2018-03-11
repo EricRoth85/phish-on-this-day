@@ -102,7 +102,6 @@ function saveBackgroundColor(url, color) {
 // user devices.
 document.addEventListener('DOMContentLoaded', () => {
   getCurrentTabUrl((url) => {
-    var dropdown = document.getElementById('dropdown');
 
     let span = document.getElementById("dateSpan")
     let container = document.getElementById("container")
@@ -112,11 +111,9 @@ document.addEventListener('DOMContentLoaded', () => {
     let date = document.createElement("h3").innerHTML = n;
     span.append(date)
 
-    document.getElementById('placeHere').append(
       chrome.tabs.executeScript({
-             code: 'function test() {return 5}'
-
-       }))
+             code: "document.getElementById('placeHere').append('test')"
+       })
 
     // window.document.getElementById('placeHere').innerHTML = todaysShows[Math.random(Math.floor(todaysShows.length))]
     // Load the saved background color for this page and modify the dropdown

@@ -34,6 +34,7 @@ getTours('https://phish.net/tour/')
 
 // scrapeAllShows('https://phish.net');
 
+let todaysShows = [];
 
 async function getTodaysShows(storageArr) {
   // let wstream = await fs.createWriteStream('shows.txt')
@@ -41,47 +42,82 @@ async function getTodaysShows(storageArr) {
   let dates = [];
 
 
-  let requestAsync = function (url) {
-    return new Promise((resolve, reject) => {
-      let req = request(url, (err, response, body) => {
-        if (err) return reject(err, response, body);
-        //resolve(cheerio.load(body))
-        let loadedBody = cheerio.load(body)
-        loadedBody('a').each(function (i, element) {
-          //grabs the text of the eleme nt, which in this case is the show venue name and stores it in a variable
-          let show = loadedBody(element).text();
-          show = show.trim()
-          if (show.charAt(4) === '-' && show.charAt(7) === '-') { //1984-10-23
-            // shows.push(show)
-            console.log('URL', url)
-            console.log('SHOW', show)
+  for (let i = 0; i < storageArr.length; i++) {
+    let url = ('https://phish.net').concat(storageArr[i])
+    //console.log("url", url)
+    //waits to get all the shows
+    let shows = await getShows(url);
+
+    if (i === storageArr.length-1) {
+      console.log("shows", shows)
+      todaysShows = shows
+      let htmlStr = ''
+      if(shows.length === 0) {
+        htmlStr = "No shows on this date";
+      } else {
+        for(let j = 0; j < shows.length; j++) {
+          if(j !== 0) {
+            htmlStr = '\n' + shows[j]
+          } else {
+            htmlStr = shows[j]
           }
-        });
-      });
-    });
-  };
+        }
+      }
+      //THIS IS WHERE I NEED TO PASS THE RESULT - htmlStr to popup.js
+      //HOW DO I EXPORT???
+      //HOW DO I AT THAT TIME TO GET POPUP.JS TO UPDATE THE POPUP.HTML
+      //SOMEHOW GET A LOADING INDICATOR IN THE SCREEN WHILE IT LOADS
 
-  /* Works as of Node 7.6 */
-  let getParallel = async function () {
-    //transform requests into Promises, await all
-    let updatedArr = [];
-    for (let i = 0; i < storageArr.length; i++) {
+      // document.getElementById('placeHere').append(htmlStr)
 
-      //gives us string with all show information
-      // console.log('STEP 6: calling getShows and concatonating the url')
-      let url = ('https://phish.net').concat(storageArr[i])
-      updatedArr.push(url);
-    }
-
-    try {
-      let data = await Promise.all(updatedArr.map(requestAsync));
-    } catch (err) {
-      console.error(err);
     }
   }
+  //console.log("todays shows", todaysShows)
 
-  getParallel();
 }
+
+
+//   let requestAsync = function (url) {
+//     return new Promise((resolve, reject) => {
+//       let req = request(url, (err, response, body) => {
+//         if (err) return reject(err, response, body);
+//         //resolve(cheerio.load(body))
+//         let loadedBody = cheerio.load(body)
+//         loadedBody('a').each(function (i, element) {
+//           //grabs the text of the eleme nt, which in this case is the show venue name and stores it in a variable
+//           let show = loadedBody(element).text();
+//           show = show.trim()
+//           if (show.charAt(4) === '-' && show.charAt(7) === '-') { //1984-10-23
+//             // shows.push(show)
+//             console.log('URL', url)
+//             console.log('SHOW', show)
+//           }
+//         });
+//       });
+//     });
+//   };
+
+//   /* Works as of Node 7.6 */
+//   let getParallel = async function () {
+//     //transform requests into Promises, await all
+//     let updatedArr = [];
+//     for (let i = 0; i < storageArr.length; i++) {
+
+//       //gives us string with all show information
+//       // console.log('STEP 6: calling getShows and concatonating the url')
+//       let url = ('https://phish.net').concat(storageArr[i])
+//       updatedArr.push(url);
+//     }
+
+//     try {
+//       let data = await Promise.all(updatedArr.map(requestAsync));
+//     } catch (err) {
+//       console.error(err);
+//     }
+//   }
+
+//   getParallel();
+// }
 
 
 //   _.each(storageArr, function(url){
@@ -138,48 +174,115 @@ async function getTodaysShows(storageArr) {
 // wstream.end();
 
 
-let todaysShows = [];
+async function getShows(url) {
 
-function getShows(url) {
+  let findTours = await axios.get(url)
 
-  function getDataFromURL(url) {
+  let body = findTours.data
 
-    return axios.get(url)
+  let $ = cheerio.load(body);
+
+  let showArr = [];
+
+  $('a').each(function(i, element){
+    let show = $(element).text()
+    show = show.trim()
+    if(show.charAt(4) === '-' && show.charAt(7) === '-') {
+      // console.log("show", show)
+      showArr.push(show)
+    }
+  })
+
+  let months = {
+    Jan: '01',
+    Feb: '02',
+    Mar: '03',
+    Apr: '04',
+    May: '05',
+    Jun: '06',
+    Jul: '07',
+    Aug: '08',
+    Sep: '09',
+    Oct: '10',
+    Nov: '11',
+    Dec: '12'
   }
 
-  //makes a request to given URL, then performs callback function
-  //response gives a lot of info, socet info, headers, etc. Body is the HTML body of the page
-  // console.log('STEP 7: request to urls beginning with /tours')
-  // let findTours = await axios.get(url)
-
-  getDataFromURL(url)
-    .then(function (result) {
-      let body = result.data;
-      //'$' takes on same function as the jQuery '$', and cheerio.load(body) tells the program that when we use '$' we want it to be searching through the body
-      return cheerio.load(body)
+  let d = new Date();
+  let n = d.toDateString();
+  n = n.split(' ')
 
 
-    })
-    .then(function (loadedBody) {
-      let shows = [];
-      //selects all elements with tag 'a' under a parent class 'browseInfo' and performs the callback function on each one
-      loadedBody('a').each(function (i, element) {
-        //grabs the text of the eleme nt, which in this case is the show venue name and stores it in a variable
-        let show = loadedBody(element).text();
-        show = show.trim()
-        if (show.charAt(4) === '-' && show.charAt(7) === '-') { //1984-10-23
-          shows.push(show)
-          console.log('URL', url)
-          console.log('SHOW', show)
-        }
-      });
-      return shows;
-    })
-    .catch(err => { return err })
+  // let today = d.slice()
+  let date = `-${months[n[1]]}-${n[2]}`;
+
+  // let today = '03-04'
+
+  //  console.log('STEP 8: finding the date')
+  for (let i = 0; i < showArr.length; i++) {
+
+    if ((showArr[i].includes(date)) && (!todaysShows.includes(showArr[i]))) {
+      console.log('TODAYS SHOW', showArr[i])
+
+      todaysShows.push(showArr[i])
+      //should this be an array to hold multiple dates?
+    }
+
+    // else {
+    //   console.log("No Shows on This Day in History")
+    // }
+  }
+  if (todaysShows.length >= 1) {
+    // console.log(todaysShows)
+  }
+  //NEED TO WRITE A FILTER FUNCTION TO GET RID OF DOUBLES*******
+  //WHERE ARE THE DOUBLES COMING FROM IE NESTED LOOP
+  //JSON FILE BECOMES OBJECT ON IMPORT
+
+  // fs.writeFile('shows.txt', showArr.join('\n'));
+  return todaysShows
+}
+
+  // function getDataFromURL(url) {
+
+  //   return axios.get(url)
+  // }
+
+  // //makes a request to given URL, then performs callback function
+  // //response gives a lot of info, socet info, headers, etc. Body is the HTML body of the page
+  // // console.log('STEP 7: request to urls beginning with /tours')
+  // // let findTours = await axios.get(url)
+
+  // getDataFromURL(url)
+  //   .then(function (result) {
+  //     let body = result.data;
+  //     //'$' takes on same function as the jQuery '$', and cheerio.load(body) tells the program that when we use '$' we want it to be searching through the body
+  //     return cheerio.load(body)
+
+
+  //   })
+  //   .then(function (loadedBody) {
+  //     let shows = [];
+  //     //selects all elements with tag 'a' under a parent class 'browseInfo' and performs the callback function on each one
+  //     loadedBody('a').each(function (i, element) {
+  //       //grabs the text of the eleme nt, which in this case is the show venue name and stores it in a variable
+  //       let show = loadedBody(element).text();
+  //       show = show.trim()
+  //       if (show.charAt(4) === '-' && show.charAt(7) === '-') { //1984-10-23
+  //         shows.push(show)
+  //         // console.log('URL', url)
+  //         // console.log('SHOW', show)
+  //       }
+  //     });
+  //     //console.log("SHOWS", shows)
+  //     Promise.resolve(shows)
+  //     return shows;
+
+  //   })
+  //   .catch(err => { return err })
 
   // console.log('SHOWARR', showArr)
 
-}
 
 function filterTodaysShows() {
   let months = {
@@ -233,3 +336,4 @@ function filterTodaysShows() {
 
 
 module.exports = todaysShows
+//
