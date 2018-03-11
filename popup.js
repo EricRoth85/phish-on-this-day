@@ -128,7 +128,6 @@ document.addEventListener('DOMContentLoaded', () => {
       }
     });
 
-
     // Ensure the background color is changed and saved when the dropdown
     // selection changes.
     dropdown.addEventListener('change', () => {
