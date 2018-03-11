@@ -1,4 +1,5 @@
-// const todaysShows = require('./scrape.js')
+// let scrape = require('./scrape.js')
+
 /**
  * Get the current URL.
  *
@@ -106,30 +107,38 @@ document.addEventListener('DOMContentLoaded', () => {
     let span = document.getElementById("dateSpan")
     let container = document.getElementById("container")
     console.log(container)
+    // console.log('window.todaysShows', window.todaysShows)
+    chrome.runtime.onMessage.addListener(function(request, sender, sendResponse) {
+      console.log('window.todaysShows', window.todaysShows)
+      document.getElementById('placeHere').append(window.todaysShows[0])
+    })
+
     let d = new Date();
     let n = d.toDateString();
     let date = document.createElement("h3").innerHTML = n;
     span.append(date)
+  })
+})
 
-      chrome.tabs.executeScript({
-             code: "document.getElementById('placeHere').append('test')"
-       })
+    // chrome.tabs.executeScript({
+    //       code: "document.getElementById('placeHere').append('test')"
+    //    })
 
     // window.document.getElementById('placeHere').innerHTML = todaysShows[Math.random(Math.floor(todaysShows.length))]
     // Load the saved background color for this page and modify the dropdown
     // value, if needed.
-    getSavedBackgroundColor(url, (savedColor) => {
-      if (savedColor) {
-        changeBackgroundColor(savedColor);
-        dropdown.value = savedColor;
-      }
-    });
+//     getSavedBackgroundColor(url, (savedColor) => {
+//       if (savedColor) {
+//         changeBackgroundColor(savedColor);
+//         dropdown.value = savedColor;
+//       }
+//     });
 
-    // Ensure the background color is changed and saved when the dropdown
-    // selection changes.
-    dropdown.addEventListener('change', () => {
-      changeBackgroundColor(dropdown.value);
-      saveBackgroundColor(url, dropdown.value);
-    });
-  });
-});
+//     // Ensure the background color is changed and saved when the dropdown
+//     // selection changes.
+//     dropdown.addEventListener('change', () => {
+//       changeBackgroundColor(dropdown.value);
+//       saveBackgroundColor(url, dropdown.value);
+//     });
+//   });
+// });
